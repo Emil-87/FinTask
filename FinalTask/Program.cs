@@ -15,4 +15,4 @@ for (int i = 0; i < finalArray.Length; i++)
         emptyArray[i] = finalArray[i];
     }
 }
-ShowArray(emptyArray)
+ShowArray(emptyArray);
